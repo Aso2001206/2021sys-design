@@ -3,15 +3,11 @@
 !define MASTER_MARK_COLOR Orange 
 !define TRANSACTION_MARK_COLOR DeepSkyBlue
 
-'グラデーションさせる場合 #xx-xx
 !define MAIN_ENTITY #MintCream-MistyRose
 
 skinparam class {
-    '図の背景
     BackgroundColor Snow
-    '図の枠
     BorderColor Black
-    'リレーションの色
     ArrowColor Black
 }
 
